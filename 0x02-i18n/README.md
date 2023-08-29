@@ -198,7 +198,7 @@ Use the following translations
 | `msgid` | `English` | `French` |
 | --- | --- | --- |
 | `current_time_is` | `"The current time is %(current_time)s."` | `"Nous sommes le %(current_time)s."` |
-Displaying the time in French looks like this:
+
 
 **Repo:**
 
